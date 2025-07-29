@@ -1,5 +1,5 @@
 import random   # Trae herramientas para elegir cosas al azar, como números o palabras.
-import time     # Trae herramientas para trabajar con el tiempo (aunque en este código no se usa).
+
 
 # Creamos una clase llamada Producto, que es como una receta para fabricar productos.
 class Producto:
